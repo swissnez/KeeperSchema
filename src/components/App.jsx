@@ -1,3 +1,4 @@
+//jshint esversion:6
 import React, {useState} from "react";
 import Header from "./Header";
 import Footer from "./Footer";
